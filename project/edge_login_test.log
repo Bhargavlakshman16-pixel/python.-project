@@ -1,0 +1,18 @@
+[13728:1488:1106/094652.968:WARNING:chrome\browser\extensions\external_registry_loader_win.cc:283] Error observing HKLM: 5
+[13728:1488:1106/094653.157:INFO:CONSOLE:0] "Tracking Prevention blocked access to storage for https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css.", source: http://127.0.0.1:8000/ (0)
+[13728:1488:1106/094653.157:INFO:CONSOLE:0] "Tracking Prevention blocked access to storage for https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css.", source: http://127.0.0.1:8000/ (0)
+[13728:1488:1106/094653.159:INFO:CONSOLE:0] "Tracking Prevention blocked access to storage for https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css.", source: http://127.0.0.1:8000/ (0)
+[13728:1488:1106/094653.159:INFO:CONSOLE:0] "Tracking Prevention blocked access to storage for https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css.", source: http://127.0.0.1:8000/ (0)
+[13728:1488:1106/094653.503:INFO:CONSOLE:6233] "[ProtocolLaunch] handler constructed; wiring port events.", source: chrome-extension://ndcpkimcihhghdcddljkfmmjccdmcmof/background.rollup.js (6233)
+[13728:1488:1106/094653.919:INFO:CONSOLE:1] "You are using the in-browser Babel transformer. Be sure to precompile your scripts for production - https://babeljs.io/docs/setup/", source: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.10/babel.min.js (1)
+[13728:1488:1106/094653.973:INFO:CONSOLE:1] "Uncaught SyntaxError: /Inline Babel script: Unexpected token, expected "}" (1494:77)
+
+  1492 |                     <div className="kpi-info">
+  1493 |                         <h4>Book Titles</h4>
+> 1494 |                         <div className="kpi-value">{activeStats.total_titles : "-"}</div>
+       |                                                                              ^
+  1495 |                         <span className="kpi-subtitle">{stats ? `${stats.total_copies} Total Copies` : ""}</span>
+  1496 |                     </div>
+  1497 |                 </div>", source: https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.10/babel.min.js (1)
+[13728:1488:1106/094654.719:WARNING:components\signin\internal\identity_manager\account_fetcher_service.cc:252] Edge does not support fetching account capabilities
+[13728:1488:1106/094654.719:WARNING:components\signin\internal\identity_manager\account_fetcher_service.cc:213] Should not execute: Tests depending on this function may fail
